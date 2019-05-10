@@ -1,5 +1,5 @@
 # Specification-Translation-German
-German translation draft of the upcoming OpenChain specification 2.0
+German translation of the OpenChain specification 2.0
 
 #Team:
 
